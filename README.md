@@ -1,3 +1,4 @@
+<img src="https://github.com/Emersonpinho/BancoDeDadosEssensialComObsidiam/blob/main/fotoParaReadme/obsidiamInterface.png" >
 
 ---
 
