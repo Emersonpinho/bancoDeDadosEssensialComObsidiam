@@ -33,6 +33,7 @@ Para tornar o estudo mais dinâmico, criei mapas mentais usando a ferramenta **E
 2. **No Obsidian**:
    - Baixe o **Obsidian** [aqui](https://obsidian.md).
    <img src="https://github.com/Emersonpinho/BancoDeDadosEssensialComObsidiam/blob/main/fotoParaReadme/imagemDownloadObsidiam.png">
+   
    - Instale a extensão **Excalidraw** diretamente dentro do Obsidian.
    - Abra os mapas mentais para visualização e edição interativa.
 
