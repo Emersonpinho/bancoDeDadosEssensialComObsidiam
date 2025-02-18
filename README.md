@@ -29,7 +29,7 @@ Com este repositório, meu foco é estudar e compreender profundamente as difere
 
 Para tornar o estudo mais dinâmico, criei mapas mentais usando a ferramenta **Excalidraw**. Estes mapas ajudam a visualizar conceitos e a entender melhor como os tópicos estão interconectados. Se você deseja ver os mapas ou utilizá-los em seu próprio estudo, pode acessar de duas formas:
 
-1. **No Exlindraw**: [Acesse os mapas mentais online aqui](https://exlindraw.com).
+1. **No Exlindraw**: [Acesse os mapas mentais online aqui](https://excalidraw.com/).
 2. **No Obsidian**:
    - Baixe o **Obsidian** [aqui](https://obsidian.md).
    <img src="https://github.com/Emersonpinho/BancoDeDadosEssensialComObsidiam/blob/main/fotoParaReadme/imagemDownloadObsidiam.png">
