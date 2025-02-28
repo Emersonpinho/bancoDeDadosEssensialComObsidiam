@@ -49,6 +49,6 @@ Contribuições de qualquer tipo são muito bem-vindas, seja com **feedback**, *
 
 ## 📝 Licença
 
-Este projeto está licenciado sob a **Licença MIT**. Para mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+Este projeto não possui uma licença específica.
 
 ---
